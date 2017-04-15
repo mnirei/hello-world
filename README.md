@@ -1,2 +1,3 @@
 # hello-world
-what is an initial commit?
+
+hello world, I'm an economist trying to program.
